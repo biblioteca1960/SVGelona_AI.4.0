@@ -1,8 +1,8 @@
-# SVGelona_IA 2.0 – Holonetic Geometric AI
+# SVGelona_IA 4.0 – Holonetic Geometric AI
 
 ## Overview
 
-SVGelona_IA 2.0 is a research-oriented, holonetic geometric AI framework designed to explore:
+SVGelona_IA 4.0 is a research-oriented, holonetic geometric AI framework designed to explore:
 
 - Critical trajectories and fractal geometry  
 - Emergent symbolic language  
@@ -21,7 +21,7 @@ The system models knowledge as a coherent geometric structure, where all critica
 
 ## Project Structure
 
-SVGelona_IA.2.0/
+SVGelona_IA.4.0/
 │
 ├─ core.py # Fundamental tetrahedron, trajectories, ChronNet, HoloneticSystem
 ├─ chronnet.py # Temporal network logic and navigation
@@ -81,8 +81,8 @@ Copia el codi
 ## Installation
 
 ```bash
-git clone https://github.com/biblioteca1960/SVGelona_IA.2.0.git
-cd SVGelona_IA.2.0
+git clone https://github.com/biblioteca1960/SVGelona_IA.4.0.git
+cd SVGelona_IA.4.0
 pip install -r requirements.txt
 Usage
 Run the AI Generator
@@ -103,7 +103,7 @@ Generate aligned tesseract outputs for sample inputs
 
 Example: Search Critical Trajectories
 python
-Copia el codi
+
 from search_engine import GeometricSearchEngine
 import numpy as np
 
@@ -139,7 +139,7 @@ Riemann Hypothesis via Geometric-Analytic Rigidity – DOI: 10.5281/zenodo.18330
 
 General Theory of Phase-Symmetric Data and the Functor to H3 – DOI: 10.5281/zenodo.18349108
 
-SVGelona_IA 2.0 Source Code – GitHub Repository
+SVGelona_IA 4.0 Source Code – GitHub Repository
 
 Recommendations to Reach 10/10
 Add unit tests – Validate icosahedral geometry, Möbius rotations, and tesseract regulation
@@ -154,5 +154,5 @@ Optimize performance – Vectorize operations and avoid unnecessary loops
 
 Integrate all modules – Ensure AngularDefectDynamics.py and global-icosahedral.py are used in the main flow
 
-yaml
-Copia el codi
+
+
