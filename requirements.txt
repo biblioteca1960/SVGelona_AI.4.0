@@ -1,0 +1,28 @@
+# Core numerical and scientific packages
+numpy>=1.26.0
+scipy>=1.11.0
+
+# Data structures and utilities
+dataclasses>=0.8  # Python >=3.7 builtin, included for compatibility
+typing-extensions>=4.7.1
+
+# Visualization
+matplotlib>=3.9.1
+plotly>=6.1.0
+pyvista>=0.40.0   # optional for advanced 3D visualization
+
+# Symbolic computation
+sympy>=1.12
+
+# For emergent language generation (if using NLP embeddings)
+transformers>=4.34.0
+torch>=2.2.0
+
+# For interactive notebooks (optional)
+jupyter>=1.0.0
+
+# Optional: for unit testing
+pytest>=8.2.0
+
+# Version control of reproducibility
+seaborn>=0.12.2  # for plotting statistics
